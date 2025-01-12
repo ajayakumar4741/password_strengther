@@ -1,22 +1,22 @@
 How It Works:
 Criteria for Strength:
 
-Password length is at least 8 characters.
-Contains at least one uppercase letter.
-Contains at least one lowercase letter.
-Contains at least one digit.
-Contains at least one special character.
-Scoring System:
+1.Password length is at least 8 characters.
+2.Contains at least one uppercase letter.
+3.Contains at least one lowercase letter.
+4.Contains at least one digit.
+5.Contains at least one special character.
 
+Scoring System:
 Each criterion adds 1 point to the strength score.
 Maximum score is 5 (for "Very Strong").
 Strength Levels:
 
-Very Strong: Meets all 5 criteria.
-Strong: Meets 4 criteria.
-Moderate: Meets 3 criteria.
-Weak: Meets 2 criteria.
-Very Weak: Meets 1 or no criteria.
+1.Very Strong: Meets all 5 criteria.
+2.Strong: Meets 4 criteria.
+3.Moderate: Meets 3 criteria.
+4.Weak: Meets 2 criteria.
+5.Very Weak: Meets 1 or no criteria.
 
 Example output
 
